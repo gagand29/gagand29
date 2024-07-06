@@ -23,7 +23,6 @@ I'm a versatile Full Stack Engineer skilled in front-end, back-end, cloud techno
 - **Email:** [gagan2998d@gmail.com](mailto:gagan2998d@gmail.com)
 - **Portfolio:** [www.gagann.com](http://www.gagann.com)
 - **LinkedIn:** [Gagan Doddanna](https://www.linkedin.com/in/gagan-doddanna-326988135)
-- **GitHub:** [gagand29](https://github.com/gagand29)
 
 ## Current Status
 **Open for work!** I am actively looking for new opportunities and collaborations. Feel free to reach out if you have an exciting project or position that matches my skills and experience.
