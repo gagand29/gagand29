@@ -23,7 +23,9 @@ I'm a versatile Full Stack Engineer skilled in front-end, back-end, cloud techno
 - **Portfolio:** [www.gagann.com](http://www.gagann.com)
 - **LinkedIn:** [Gagan Doddanna](https://www.linkedin.com/in/gagan-doddanna-326988135)
 
-## Current Status
-**Open for work!** I am actively looking for new opportunities and collaborations. Feel free to reach out if you have an exciting project or position that matches my skills and experience.
+## Current Status 
+🚀🔥 **Open for work!** 🔥🚀 
+I am actively looking for new opportunities and collaborations. Feel free to reach out if you have an exciting project or position that matches my skills and experience.
+
 ---
 Thank you for visiting my profile!
