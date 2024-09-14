@@ -1,5 +1,4 @@
 # Hello there! 👋
-
 ## About Me
 I'm a versatile Full Stack Engineer skilled in front-end, back-end, cloud technologies, data analytics, and UI/UX design. I'm currently open for work and looking for exciting opportunities to contribute and grow.
 
@@ -15,7 +14,7 @@ I'm a versatile Full Stack Engineer skilled in front-end, back-end, cloud techno
 - **Tools:** Visual Studio Code, Postman, Slack, Jira, Notion, Figma, Adobe Creative Suite, Webflow, Tableau, Canva, Microsoft Office, Google Colab, Jupyter Notebook, Google Cloud BigQuery, Celonis, Axios
 - **UI/UX Design:** User Experience, User Interface, User Research, Qualitative and Quantitative Data Analysis, User Testing, Card Sorting, Information Architecture, Wireframing, Prototyping, Interaction Design, Visual Design
 - **Cloud Technologies:** AWS, Docker, Jenkins, DigitalOcean
-- **Version Control:** Git, SVN
+- **Version Control:** Git, 
 - **Methodologies:** Agile, SDLC, Waterfall
 - **Testing:** QA testing, Unit testing, Integration testing, Automated testing frameworks
 
@@ -26,7 +25,5 @@ I'm a versatile Full Stack Engineer skilled in front-end, back-end, cloud techno
 
 ## Current Status
 **Open for work!** I am actively looking for new opportunities and collaborations. Feel free to reach out if you have an exciting project or position that matches my skills and experience.
-
 ---
-
 Thank you for visiting my profile!
