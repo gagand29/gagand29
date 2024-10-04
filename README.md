@@ -15,8 +15,8 @@ I'm a versatile Full Stack Engineer skilled in front-end, back-end, cloud techno
 - **UI/UX Design:** User Experience, User Interface, User Research, Qualitative and Quantitative Data Analysis, User Testing, Card Sorting, Information Architecture, Wireframing, Prototyping, Interaction Design, Visual Design
 - **Cloud Technologies:** AWS, Docker, Jenkins, DigitalOcean
 - **Version Control:** Git, 
-- **Methodologies:** Agile, SDLC, Waterfall
-- **Testing:** QA testing, Unit testing, Integration testing, Automated testing frameworks
+- **Methodologies:** Agile
+- **Testing:**  Unit testing, Integration testing
 
 ## Contact Me
 - **Email:** [gagan2998d@gmail.com](mailto:gagan2998d@gmail.com)
