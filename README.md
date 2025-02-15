@@ -19,7 +19,7 @@ I'm a versatile Full Stack Engineer skilled in front-end, back-end, cloud techno
 - **Testing:**  Unit testing, Integration testing
 
 ## Contact Me
-- **Email:** [gagan2998d@gmail.com](mailto:gagan2998d@gmail.com)
+- **Email:** [gagandoddanna@gmail.com](mailto:gagandoddanna@gmail.com)
 - **Portfolio:** [www.gagann.com](http://www.gagann.com)
 - **LinkedIn:** [Gagan Doddanna](https://www.linkedin.com/in/gagan-doddanna-326988135)
 
