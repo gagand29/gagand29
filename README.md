@@ -1,30 +1,49 @@
-# Hello there! 👋
+# 👋 Hi, I'm Gagan Doddanna
+
+**Full Stack Engineer | UI/UX Designer | AWS Certified | Open to Work**
+
+---
+
 ## About Me
-I'm a versatile Full Stack Engineer skilled in front-end, back-end, cloud technologies, data analytics, and UI/UX design. I'm currently open for work and looking for exciting opportunities to contribute and grow.
+I'm a Chicago-based Full Stack Engineer with a strong foundation in front-end, back-end, and cloud technologies. I blend intuitive UI/UX design with scalable development to build impactful digital experiences. Currently open to new opportunities where I can contribute and grow.
+
+---
+
+## Tech Stack
+
+**Languages:**  
+JavaScript, TypeScript, Python, Java, PHP, HTML, CSS
+
+**Frameworks & Libraries:**  
+React.js, Next.js, Node.js, Express.js, Spring Boot, JQuery, Laravel
+
+**Cloud & Databases:**  
+AWS, Firebase, DigitalOcean, MySQL, PostgreSQL, DynamoDB
+
+**DevOps & Tools:**  
+Docker, Jenkins, GitHub Actions, Git, VS Code, Postman, Jira, Slack, Notion
+
+**Design & UX:**  
+Figma, Adobe Creative Suite, Webflow, WordPress, Bubble.io  
+Wireframing, Prototyping, User Research, Accessibility (WCAG), Interaction Design
+
+---
 
 ## Education
-- **Master’s in Computer Science / (HCI)** - DePaul University, IL (Nov 2023)
-- **Diploma in UI/UX Design** - Edit Institute - Online (Jun 2023)
-- **Bachelor of Engineering in Computer Science** - Channabasaveshwara Institute of Technology, India (Sep 2020)
 
-## Skills
-- **Languages:** JavaScript, Python, Java, C++, PHP, R, HTML, CSS
-- **Databases:** MySQL, PostgreSQL, MS SQL Server
-- **Frameworks:** Node.js, Express.js, React.js, Bootstrap, JQuery, Laravel
-- **Tools:** Visual Studio Code, Postman, Slack, Jira, Notion, Figma, Adobe Creative Suite, Webflow, Tableau, Canva, Microsoft Office, Google Colab, Jupyter Notebook, Google Cloud BigQuery, Celonis, Axios
-- **UI/UX Design:** User Experience, User Interface, User Research, Qualitative and Quantitative Data Analysis, User Testing, Card Sorting, Information Architecture, Wireframing, Prototyping, Interaction Design, Visual Design
-- **Cloud Technologies:** AWS, Docker, Jenkins, DigitalOcean
-- **Version Control:** Git, 
-- **Methodologies:** Agile
-- **Testing:**  Unit testing, Integration testing
+- **M.S. in Computer Science (HCI)** — DePaul University, IL (Nov 2023)  
+- **Diploma in UI/UX Design** — Edit Institute, Mumbai (Jun 2023)  
+- **B.E. in Computer Science** — VTU, India (Sep 2020)
 
-## Contact Me
-- **Email:** [gagandoddanna@gmail.com](mailto:gagandoddanna@gmail.com)
-- **Portfolio:** [www.gagann.com](http://www.gagann.com)
-- **LinkedIn:** [Gagan Doddanna](https://www.linkedin.com/in/gagan-doddanna-326988135)
+---
 
-## Current Status 
-🚀🔥 **Open for work!** 🔥🚀 
-I am actively looking for new opportunities and collaborations. Feel free to reach out if you have an exciting project or position that matches my skills and experience.
+## Contact
 
-Thank you for visiting my profile!
+- **Email:** [gagandoddanna@gmail.com](mailto:gagandoddanna@gmail.com)  
+- **Portfolio:** [www.gagann.com](http://www.gagann.com)  
+- **LinkedIn:** [linkedin.com/in/gagan-doddanna-326988135](https://www.linkedin.com/in/gagan-doddanna-326988135)  
+- **Behance:** [behance.net/gagand1](https://www.behance.net/gagand1)
+
+---
+
+**🚀 Open to Work – Let's connect and build something great.**
