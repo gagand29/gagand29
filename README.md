@@ -2,9 +2,7 @@
 
 **Creative Developer with a Design Background – blending code with craft.**  
 Currently **open to work** and passionate about building user-focused, scalable digital experiences.
-
 ---
-
 ### ⚡ Most Used Skills  
 **Languages:** JavaScript, TypeScript, Python, Java, PHP, HTML, CSS  
 **Frameworks:** React.js, Next.js, Node.js, Express.js, Spring Boot, Laravel  
