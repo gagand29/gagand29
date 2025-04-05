@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gagan Doddanna
 
 **Creative Developer with a Design Background – blending code with craft.**  
-Currently ** 🚀 open to work 🚀** and passionate about building user-focused, scalable digital experiences.
+Currently **🚀 open to work 🚀** and passionate about building user-focused, scalable digital experiences.
 
 ---
 
