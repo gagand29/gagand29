@@ -9,7 +9,7 @@ Currently **open to work 🚀** and passionate about building user-focused, scal
 **Languages:** JavaScript, TypeScript, Python, Java, PHP, HTML, CSS  
 **Frameworks:** React.js, Next.js, Node.js, Express.js, Spring Boot, Laravel  
 **Cloud & DB:** AWS, Firebase, DigitalOcean, MySQL, PostgreSQL, DynamoDB  
-**DevOps & Tools:** Docker, Jenkins, GitHub Actions, Git, Postman, VS Code  
+**DevOps & Tools:** Docker, Jenkins, GitHub Actions, Git, Postman, VS Code , cursor, replit   
 **Design & UX:** Figma, Adobe Suite, Webflow, WordPress, Wireframing, Prototyping, Accessibility (WCAG)
 
 ---
