@@ -23,6 +23,6 @@ Currently **open to work 🚀** and passionate about building user-focused, scal
 
 ### 📬 Contact  
 **Email:** [gagandoddanna@gmail.com](mailto:gagandoddanna@gmail.com)  
-**Portfolio:** [www.gagann.com](http://www.gagann.com)  
+**Portfolio:** WIP  
 **LinkedIn:** [linkedin.com/in/gagan-doddanna-326988135](https://www.linkedin.com/in/gagan-doddanna-326988135)  
 **Behance:** [behance.net/gagand1](https://www.behance.net/gagand1)
