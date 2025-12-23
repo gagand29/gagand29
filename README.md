@@ -5,7 +5,7 @@ Currently **open to full-time opportunities 🚀**, focused on building **user-c
 
 ---
 
-## ⚡ Core Skills
+##  Core Skills
 
 ### **Frontend & UI Architecture**
 
@@ -42,7 +42,7 @@ Wireframing, Prototyping, Design-to-Code workflows, UX audits
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Email:** [gagandoddanna@gmail.com](mailto:gagandoddanna@gmail.com)
 **Portfolio:** WIP
