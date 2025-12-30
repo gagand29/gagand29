@@ -9,7 +9,7 @@ Currently **open to full-time opportunities **, focused on building **user-centr
 
 ### **Frontend & UI Architecture**
 
-**Vue 3, Nuxt 3, Pinia, TypeScript, React, Next.js**
+**Vue 3, Nuxt 4, Pinia, TypeScript, React, Next.js**
 Component-driven design, state management, reusable UI systems, performance optimization, accessibility (WCAG)
 
 ### **Backend & APIs**
