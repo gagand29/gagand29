@@ -1,7 +1,7 @@
 #  Hi, I’m **Gagan D**
 
 **Frontend-Heavy Full Stack Engineer with a strong UI/UX background** — blending **design thinking with scalable frontend architecture**.
-Currently **open to full-time opportunities 🚀**, focused on building **user-centric, production-ready SaaS platforms**.
+Currently **open to full-time opportunities **, focused on building **user-centric, production-ready SaaS platforms**.
 
 ---
 
