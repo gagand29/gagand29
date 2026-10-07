@@ -1,32 +1,20 @@
-# Hi, I’m Gagan D
+# Hi, I'm Gagan 👋
 
-Frontend-Heavy Full Stack Engineer focused on building scalable platform UIs, real-time dashboards, and telecom / IVR systems.
+Full-Stack Software Engineer building scalable web applications, modern frontend systems, and real-time product experiences.
 
-I enjoy working at the intersection of frontend architecture, performance optimization, and user-centric design — turning complex workflows into clean, production-ready interfaces.
+I enjoy working across frontend architecture, performance, APIs, and product engineering — turning complex workflows into simple, reliable software.
 
----
+## Tech
 
-## Tech Stack
-
-**Frontend:** Vue 3, Nuxt, React, Next.js, TypeScript  
-**State & UI:** Pinia, Reusable Components, Virtual Scrolling  
-**Backend:** Node.js, Express, REST APIs  
-**Cloud & DB:** AWS, Supabase, Firebase, PostgreSQL, DynamoDB  
-**DevOps:** Docker, CI/CD, GitHub Actions  
-**Design:** Figma, Design Systems, UX Workflows
-
----
+**Frontend:** Vue 3 · Nuxt · React · Next.js · TypeScript  
+**Backend:** Node.js · Express · Fastify · REST · GraphQL · WebSockets  
+**Cloud & Data:** AWS · Docker · PostgreSQL · Redis · Supabase  
+**AI:** OpenAI API · LLMs · Real-time AI
 
 ## Currently
 
-• Building telecom & IVR platform dashboards  
-• Working on large-scale UI performance (10k+ node systems)  
-• Exploring AI + voice workflow integrations
+Building with modern web technologies and exploring practical AI/LLM integrations for real products.
 
----
+## Connect
 
-## Contact
-
-Email: gagandoddanna@gmail.com  
-LinkedIn: https://www.linkedin.com/in/gagan-doddanna-326988135  
-Portfolio: WIP
+[Portfolio](https://gaganfolio.com) · [Email](mailto:gagandoddanna@gmail.com)
